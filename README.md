@@ -65,3 +65,17 @@ https://github.com/BHARATHMM562/PRODIGY_ST_01/blob/main/PRODIGY_ST_01.xlsx
 This file contains the raw test execution data in a spreadsheet format.
 
 This thorough testing process has successfully identified key areas for improvement and provided clear, actionable feedback for the development team.
+
+
+
+
+## My Prodigy Infotech Internship Task Index
+
+This repository is part of a series of projects completed during the Prodigy Infotech Software Testing Internship. You can explore the other tasks in the links below:
+
+* **Task 02**: [https://github.com/BHARATHMM562/PRODIGY_ST_02](https://github.com/BHARATHMM562/PRODIGY_ST_02)
+* **Task 03**: [https://github.com/BHARATHMM562/PRODIGY_ST_03](https://github.com/BHARATHMM562/PRODIGY_ST_03)
+* **Task 04**: [https://github.com/BHARATHMM562/PRODIGY_ST_04](https://github.com/BHARATHMM562/PRODIGY_ST_04)
+* **Task 05**: [https://github.com/BHARATHMM562/PRODIGY_ST_05](https://github.com/BHARATHMM562/PRODIGY_ST_05)
+
+Feel free to browse through the code and documentation in each repository.
